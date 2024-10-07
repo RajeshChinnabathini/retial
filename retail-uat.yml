@@ -10,5 +10,5 @@ spring:
 
   jpa:
     hibernate.ddl-auto: update
-message: this is dev environment
+message: this is uat environment
     
